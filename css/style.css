@@ -1,0 +1,33 @@
+#first-row div {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+#first-row p {
+    font-size: large;
+}
+
+#second-row div {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #005ca8;
+    text-align: center;
+    display: inline-block;
+}
+
+#second-row a {
+    margin-top: 10px;
+}
+
+#third-row div {
+    padding-top: 30px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+#footer {
+    background-color: #005ca8;
+}
