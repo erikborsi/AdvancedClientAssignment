@@ -1,0 +1,109 @@
+[{
+        "id": 1,
+        "category": "away",
+        "name": "2021 Away Ladies Shirt",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-away-replica-jersey-2021-wmns-1.jpg",
+        "size": "L",
+        "color": "greenandwhite",
+        "price": 49.00
+    },
+    {
+        "id": 2,
+        "category": "away",
+        "name": "2021 Away Child Shirt",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-away-replica-jersey-2021-kids-1.jpg",
+        "size": "L",
+        "color": "greenandwhite",
+        "price": 36.00
+    },
+    {
+        "id": 3,
+        "category": "away",
+        "name": "2021 Away Adult Shirt",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-away-replica-jersey-2021-1.jpg",
+        "size": "L",
+        "color": "greenandwhite",
+        "price": 49.00
+    },
+    {
+        "id": 4,
+        "category": "away",
+        "name": "2021 Away Players Shirt",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-away-replica-jersey-2021-1_2.jpg",
+        "size": "L",
+        "color": "greenandwhite",
+        "price": 75.00
+    },
+    {
+        "id": 5,
+        "category": "home",
+        "name": "2021 Home Ladies Shirt",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-home-jersey-2021-wmns-1.jpg",
+        "size": "L",
+        "color": "yellowandblue",
+        "price": 49.00
+    },
+    {
+        "id": 6,
+        "category": "home",
+        "name": "2021 Home Child Shirt",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-home-jersey-2021-1_5.jpg",
+        "size": "L",
+        "color": "yellowandblue",
+        "price": 36.00
+    },
+    {
+        "id": 7,
+        "category": "home",
+        "name": "2021 Home Adult Shirt",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-home-jersey-2021-1_4.jpg",
+        "size": "L",
+        "color": "yellowandblue",
+        "price": 49.00
+    },
+    {
+        "id": 8,
+        "category": "home",
+        "name": "2021 Home Player Shirt",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-home-jersey-2021-1_1_2.jpg",
+        "size": "L",
+        "color": "yellowandblue",
+        "price": 75.00
+    },
+    {
+        "id": 9,
+        "category": "training",
+        "name": "2021 Training Ladies Jackets",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/a/8/a8s9a8286_1_2.jpg",
+        "size": "L",
+        "color": "darkbrown",
+        "price": 59.00
+    },
+    {
+        "id": 10,
+        "category": "training",
+        "name": "2021 Training Child Jackets",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/a/8/a8s9a8286.jpg",
+        "size": "L",
+        "color": "darkbrown",
+        "price": 49.00
+    },
+    {
+        "id": 11,
+        "category": "training",
+        "name": "2021 Training Adult Jackets",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-norton71-lt-weight-jkt-mar-marl-mar-1.jpg",
+        "size": "L",
+        "color": "greyandblue",
+        "price": 75.00
+    },
+    {
+        "id": 12,
+        "category": "training",
+        "name": "2021 Training Player Jackets",
+        "image": "https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-henry016-full-zip-flc-hoodie-mar-1.jpg",
+        "size": "L",
+        "color": "darkblue",
+        "price": 85.00
+    }
+]
