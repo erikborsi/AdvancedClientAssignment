@@ -54,6 +54,7 @@
 #footer {
     background-color: #005ca8;
     text-align: center;
+    color: #ffffff;
 }
 
 #footer a:link,
@@ -63,6 +64,14 @@ a:visited {
     transition-duration: 0.2s;
     border-radius: 30px;
     padding: 5px 10px;
+}
+
+#main-heading {
+    text-align: center;
+    color: #005ca8;
+    background-color: #f8f9fa;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 #footer a:hover {
@@ -78,11 +87,11 @@ a:visited {
 
 .contact-us {
     padding: 70px 0px;
-    background: #8f8e97;
+    background: #ffffff;
 }
 
 .section-title h2 {
-    color: #ffffff;
+    color: #000000;
     font-size: 30px;
     font-weight: normal;
     text-transform: uppercase;
@@ -93,7 +102,7 @@ a:visited {
 }
 
 .section-title p {
-    color: #e8e8e8;
+    color: #000000;
     margin-bottom: 30px;
 }
 
@@ -110,4 +119,137 @@ a:visited {
 .contact-us .map {
     overflow: hidden;
     border-radius: 4px;
+}
+
+#store-row {
+    padding-top: 30px;
+}
+
+#store-row img {
+    padding-top: 10px;
+}
+
+.shop-item-button {
+    text-align: center;
+    color: black;
+    font-size: larger;
+    background-color: white;
+}
+
+.shop-item-title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.shop-item-price {
+    flex-grow: 1;
+    color: #004278;
+    font-size: large;
+}
+
+.cart-header {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #333;
+}
+
+.cart-column {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    margin-right: 1.5em;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.cart-row {
+    display: flex;
+}
+
+.cart-item {
+    width: 45%;
+}
+
+.cart-price {
+    width: 20%;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.cart-quantity {
+    width: 35%;
+}
+
+.cart-item-title {
+    color: #333;
+    margin-left: .5em;
+    font-size: 1.2em;
+}
+
+.cart-item-image {
+    width: 75px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.btn-danger {
+    color: white;
+    background-color: #EB5757;
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+}
+
+.btn-danger:hover {
+    background-color: #CC4C4C;
+}
+
+.cart-quantity-input {
+    height: 34px;
+    width: 50px;
+    border-radius: 5px;
+    border: 1px solid #56CCF2;
+    background-color: #eee;
+    color: #333;
+    padding: 0;
+    text-align: center;
+    font-size: 1.2em;
+    margin-right: 25px;
+}
+
+.cart-row:last-child {
+    border-bottom: 1px solid black;
+}
+
+.cart-row:last-child .cart-column {
+    border: none;
+}
+
+.cart-total {
+    text-align: end;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.cart-total-title {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: black;
+    margin-right: 20px;
+}
+
+.cart-total-price {
+    color: #333;
+    font-size: 1.1em;
+}
+
+.btn-purchase {
+    display: block;
+    margin: 40px auto 80px auto;
+    font-size: 1.75em;
 }
