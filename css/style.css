@@ -136,6 +136,15 @@ a:visited {
     background-color: white;
 }
 
+.dropdown a:visited {
+    color: #000000;
+}
+
+.categories-h2 {
+    text-align: center;
+    padding-top: 30px;
+}
+
 .shop-item-title {
     display: block;
     width: 100%;

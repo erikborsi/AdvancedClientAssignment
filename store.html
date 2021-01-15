@@ -28,8 +28,17 @@
                 <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Store <span class="sr-only">(current)</span></a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="store.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Shop
+                      </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Store <span class="sr-only">(current)</span></a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="store.html#first-category">Away</a>
+                        <a class="dropdown-item" href="store.html#second-category">Home</a>
+                        <a class="dropdown-item" href="store.html#third-category">Training</a>
+                    </div>
                 </li>
             </ul>
         </div>
@@ -53,6 +62,7 @@
             </div>
             <button class="btn btn-primary btn-purchase" type="button">PURCHASE</button>
         </section>
+        <h2 class="categories-h2" id="first-category">2021 Away Shirts</h2>
         <div class="row row-cols-1 row-cols-md-4" id="store-row">
             <div class="col mb-4">
                 <div class="card">
@@ -94,6 +104,9 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <h2 class="categories-h2" id="second-category">2021 Home Shirts</h2>
+        <div class="row row-cols-1 row-cols-md-4" id="store-row">
             <div class="col mb-4">
                 <div class="card">
                     <img class="shop-item-image" src="https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/w/a/warrington-wolves-home-jersey-2021-wmns-1.jpg" class="card-img-top" alt="2021 Home Ladies Shirt">
@@ -134,6 +147,9 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <h2 class="categories-h2" id="third-category">2021 Training Shirts</h2>
+        <div class="row row-cols-1 row-cols-md-4" id="store-row">
             <div class="col mb-4">
                 <div class="card">
                     <img class="shop-item-image" src="https://shop.warringtonwolves.com/media/catalog/product/cache/e25a4773edd1dd167a325487118feab4/a/8/a8s9a8286_1_2.jpg" class="card-img-top" alt="2021 Training Ladies Jackets">
@@ -174,10 +190,10 @@
                     </div>
                 </div>
             </div>
-
         </div>
+    </div>
 
-        <!-- CONTENT ENDS HERE -->
+    <!-- CONTENT ENDS HERE -->
     </div>
     <!-- FOOTER STARTS HERE -->
     <footer class="footer mt-auto py-3" id="footer">
