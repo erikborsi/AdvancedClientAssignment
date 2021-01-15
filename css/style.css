@@ -51,6 +51,10 @@
     background-color: #f8f9fa;
 }
 
+#shop-item-image {
+    max-height: 30px;
+}
+
 #footer {
     background-color: #005ca8;
     text-align: center;
